@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/admindynamicmetrics",
+    "name": "codica-studio/admindynamicmetrics",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/admindynamicmetrics",
+    "homepage": "https://github.com/codica-studio/admindynamicmetrics",
     "license": "MIT",
     "authors": [
         {
