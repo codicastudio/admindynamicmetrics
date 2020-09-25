@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/admindynamicmetrics",
+    "name": "codicastudio/dynamic-metrics",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/admindynamicmetrics",
+    "homepage": "https://github.com/codicastudio/dynamic-metrics",
     "license": "MIT",
     "authors": [
         {
@@ -30,6 +30,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
